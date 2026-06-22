@@ -7,6 +7,7 @@ DSA solving in python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devikamj73/DSA-in-python/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/devikamj73/DSA-in-python/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,9 @@ DSA solving in python
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/devikamj73/DSA-in-python/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/devikamj73/DSA-in-python/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/devikamj73/DSA-in-python/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
