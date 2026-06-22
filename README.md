@@ -19,4 +19,8 @@ DSA solving in python
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devikamj73/DSA-in-python/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/devikamj73/DSA-in-python/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
