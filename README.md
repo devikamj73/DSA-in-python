@@ -12,10 +12,12 @@ DSA solving in python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devikamj73/DSA-in-python/tree/master/0001-two-sum) |
+| [0451-sort-characters-by-frequency](https://github.com/devikamj73/DSA-in-python/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devikamj73/DSA-in-python/tree/master/0020-valid-parentheses) |
+| [0451-sort-characters-by-frequency](https://github.com/devikamj73/DSA-in-python/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -29,4 +31,20 @@ DSA solving in python
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/devikamj73/DSA-in-python/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/devikamj73/DSA-in-python/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/devikamj73/DSA-in-python/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/devikamj73/DSA-in-python/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/devikamj73/DSA-in-python/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
