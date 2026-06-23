@@ -8,6 +8,7 @@ DSA solving in python
 | ------- |
 | [0001-two-sum](https://github.com/devikamj73/DSA-in-python/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/devikamj73/DSA-in-python/tree/master/0189-rotate-array) |
+| [2239-find-closest-number-to-zero](https://github.com/devikamj73/DSA-in-python/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
