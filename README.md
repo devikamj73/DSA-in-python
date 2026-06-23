@@ -8,11 +8,13 @@ DSA solving in python
 | ------- |
 | [0001-two-sum](https://github.com/devikamj73/DSA-in-python/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/devikamj73/DSA-in-python/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/devikamj73/DSA-in-python/tree/master/0217-contains-duplicate) |
 | [2239-find-closest-number-to-zero](https://github.com/devikamj73/DSA-in-python/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devikamj73/DSA-in-python/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/devikamj73/DSA-in-python/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/devikamj73/DSA-in-python/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
@@ -35,6 +37,7 @@ DSA solving in python
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/devikamj73/DSA-in-python/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/devikamj73/DSA-in-python/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
