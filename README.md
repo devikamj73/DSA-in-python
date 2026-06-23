@@ -16,11 +16,13 @@ DSA solving in python
 | [0001-two-sum](https://github.com/devikamj73/DSA-in-python/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/devikamj73/DSA-in-python/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/devikamj73/DSA-in-python/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/devikamj73/DSA-in-python/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devikamj73/DSA-in-python/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/devikamj73/DSA-in-python/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/devikamj73/DSA-in-python/tree/master/0771-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
