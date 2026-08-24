@@ -7,6 +7,7 @@ DSA solving in python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devikamj73/DSA-in-python/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/devikamj73/DSA-in-python/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/devikamj73/DSA-in-python/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/devikamj73/DSA-in-python/tree/master/0217-contains-duplicate) |
 | [2239-find-closest-number-to-zero](https://github.com/devikamj73/DSA-in-python/tree/master/2239-find-closest-number-to-zero) |
@@ -62,4 +63,12 @@ DSA solving in python
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/devikamj73/DSA-in-python/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/devikamj73/DSA-in-python/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/devikamj73/DSA-in-python/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
