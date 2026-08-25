@@ -7,6 +7,7 @@ DSA solving in python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devikamj73/DSA-in-python/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/devikamj73/DSA-in-python/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/devikamj73/DSA-in-python/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/devikamj73/DSA-in-python/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/devikamj73/DSA-in-python/tree/master/0217-contains-duplicate) |
@@ -71,4 +72,8 @@ DSA solving in python
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/devikamj73/DSA-in-python/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/devikamj73/DSA-in-python/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
